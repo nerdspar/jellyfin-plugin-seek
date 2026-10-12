@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "5e3c8a52-7d1f-4b9e-9a6c-2f4d8b1e6a73",
+    "name": "Seek",
+    "overview": "Play history for the Seek app",
+    "description": "Lets the Seek app see what you play, finish, tick and un-tick — exactly, as it happens.",
+    "owner": "nerdspar",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Seek 1.0.0.0",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.0.0.0/seek_1.0.0.0.zip",
+        "checksum": "f2c5e8ea248c1bd160545033e90c879a",
+        "timestamp": "2026-10-12T02:41:21Z"
+      }
+    ]
+  }
+]
