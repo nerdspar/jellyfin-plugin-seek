@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.3.3.0",
+        "changelog": "Adds the Seek icon",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.3.3.0/seek_1.3.3.0.zip",
+        "checksum": "2d4d103c4937d6d143768dc7364c0ef6",
+        "timestamp": "2026-10-12T13:44:30Z"
+      },
+      {
         "version": "1.3.2.0",
         "changelog": "Push tokens: one per install (new replaces old), removed on sign-out; tidier errors",
         "targetAbi": "12.0.0.0",
@@ -55,6 +63,7 @@
         "checksum": "f2c5e8ea248c1bd160545033e90c879a",
         "timestamp": "2026-10-12T02:41:21Z"
       }
-    ]
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/nerdspar/jellyfin-plugin-seek/main/thumb.png"
   }
 ]
