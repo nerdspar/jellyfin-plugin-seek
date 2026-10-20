@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.5.1.0",
+        "changelog": "Fix: when someone in the household already had the Live Activity for an episode, the other person's didn't start.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.5.1.0/seek_1.5.1.0.zip",
+        "checksum": "b8790a48e4a80fae2227fbe3cdc208d6",
+        "timestamp": "2026-10-20T23:05:39Z"
+      },
+      {
         "version": "1.5.0.0",
         "changelog": "Live Activities across a household: a together show or movie playing on one person's account starts the Live Activity on the others' phones too (needs Seek build 166 or later).",
         "targetAbi": "12.0.0.0",
