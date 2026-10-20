@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.5.0.0",
+        "changelog": "Live Activities across a household: a together show or movie playing on one person's account starts the Live Activity on the others' phones too (needs Seek build 166 or later).",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.5.0.0/seek_1.5.0.0.zip",
+        "checksum": "8423789769807657519ba8ed1295fde4",
+        "timestamp": "2026-10-20T22:41:30Z"
+      },
+      {
         "version": "1.4.0.0",
         "changelog": "Finishing a movie turns the Live Activity into 'How was it?' (rate 6–10 from the lock screen); something you're waiting for arriving in Jellyfin wakes Seek for 'Ready to watch'. Needs the push key (Team ID, Key ID, .p8) on the plugin page.",
         "targetAbi": "12.0.0.0",
