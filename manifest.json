@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.5.2.0",
+        "changelog": "Fix: starting a show again (or after Jellyfin restarted mid-show) always brings up a fresh Live Activity.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.5.2.0/seek_1.5.2.0.zip",
+        "checksum": "0c80d70d7baf47ff987a77eb207b5d70",
+        "timestamp": "2026-10-20T23:27:55Z"
+      },
+      {
         "version": "1.5.1.0",
         "changelog": "Fix: when someone in the household already had the Live Activity for an episode, the other person's didn't start.",
         "targetAbi": "12.0.0.0",
