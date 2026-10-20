@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.7.0.0",
+        "changelog": "Diagnostics: a read-only key (settings page) for troubleshooting what Seek saw, at /Seek/Diagnostics. Never shows a secret.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.7.0.0/seek_1.7.0.0.zip",
+        "checksum": "a2e88551c3862a731368f5d20ca45a8b",
+        "timestamp": "2026-10-20T23:56:03Z"
+      },
+      {
         "version": "1.6.1.0",
         "changelog": "Recent pushes shows on the settings page (it came up blank), and each line also goes to Jellyfin's log as 'Seek push'.",
         "targetAbi": "12.0.0.0",
