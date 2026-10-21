@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.9.0.0",
+        "changelog": "iOS's player: its buttons and volume go through the plugin to your Apple TV via Home Assistant (needs a public address for the player, e.g. a Cloudflare Tunnel).",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.9.0.0/seek_1.9.0.0.zip",
+        "checksum": "a9d70c5c76129359bd684b926e39684f",
+        "timestamp": "2026-10-21T17:44:19Z"
+      },
+      {
         "version": "1.8.0.0",
         "changelog": "iOS's own media player for your playback: play, pause, skip, and Apple TV volume (with Seek build 177 or later on iOS 27). Diagnostics list the players.",
         "targetAbi": "12.0.0.0",
