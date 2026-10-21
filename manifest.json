@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.9.2.0",
+        "changelog": "iOS's player: the Live Activity always starts; tap it to open Seek and bring up the player with its buttons.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.9.2.0/seek_1.9.2.0.zip",
+        "checksum": "46284ee463cbac08d8ab438c658842d5",
+        "timestamp": "2026-10-21T18:44:57Z"
+      },
+      {
         "version": "1.9.1.0",
         "changelog": "iOS's player: skip forward and back use the Apple TV remote's skip buttons (Neptune ignored seeks); volume presses for the slider.",
         "targetAbi": "12.0.0.0",
