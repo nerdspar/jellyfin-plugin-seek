@@ -8,6 +8,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "1.9.3.0",
+        "changelog": "iOS's player carries on to the next episode (a stop waits 45 seconds before ending it); no new Live Activity while it's showing.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/nerdspar/jellyfin-plugin-seek/releases/download/v1.9.3.0/seek_1.9.3.0.zip",
+        "checksum": "72539d1a329dd67fb32aee4ce852b650",
+        "timestamp": "2026-10-21T19:31:16Z"
+      },
+      {
         "version": "1.9.2.0",
         "changelog": "iOS's player: the Live Activity always starts; tap it to open Seek and bring up the player with its buttons.",
         "targetAbi": "12.0.0.0",
